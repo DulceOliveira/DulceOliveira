@@ -16,7 +16,7 @@ I'm a data enthusiast. Here's a bit more about me:
 ### 🚀 What I Bring to the Table
 
 - **Data Analysis**: Exploring, cleaning, and visualizing data to derive meaningful insights.
-- **Statistical Analysis**: Skilled in statistical techniques to discover patterns and trends in data.
+- **Statistical Analysis**: Discover patterns and trends in data.
 - **Machine Learning**: Familiar with machine learning algorithms for predictive modeling.
 - **Data Visualization**: Creating visualizations to communicate findings effectively.
 - **SQL & Python**: Data manipulation, analysis, and scripting with SQL and Python.
