@@ -3,7 +3,7 @@
 I'm a data enthusiast. Here's a bit more about me:
 
 - 🔍 I'm deeply interested in **Data Analysis** and its power to drive informed decisions.
-- 🌱 I'm constantly expanding my knowledge in various data-related fields, from data visualization to machine learning.
+- 🌱 I'm always seeking to expand my knowledge in various data-related fields, from data visualization to machine learning.
 - 💼 I'm actively seeking opportunities to collaborate on **exciting data projects**.
 - 📈 My goal is to leverage data to make a positive impact in various domains.
 
