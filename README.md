@@ -1,4 +1,4 @@
-### Hi there, I'm Dulce Oliveira! 👋
+### Hellol, I'm Dulce Oliveira! 👋
 
 I'm a data enthusiast. Here's a bit more about me:
 
