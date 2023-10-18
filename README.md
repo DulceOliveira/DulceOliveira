@@ -10,7 +10,7 @@ I'm a data enthusiast. Here's a bit more about me:
 ### 🔗 Connect with Me
 
 - LinkedIn: [Dulce Oliveira](https://www.linkedin.com/in/dulcekatilaoliveira/)
-- 📧 Email: dulce.katila.oliveira@gmail.com
+- 📧 Email: dulce.katila.dasilvaoliveira@gmail.com
 - 📱 Phone: +351 926 724 285
 
 ### 🚀 What I Bring to the Table
